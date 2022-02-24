@@ -1,0 +1,26 @@
+body{
+    color:#ddc227;
+    background:rgb(175, 70, 201);
+    
+}
+
+.heading
+{
+width:80%;
+font-size:22px;
+
+}
+
+#camera
+{
+    border:2px black;
+    width:350px;
+    height:300px;
+
+}
+
+
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color: blanchedalmond;
+}
